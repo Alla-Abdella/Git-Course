@@ -5,3 +5,4 @@ add files, images, vedios, anything related to the project.
 commit --- like same
 maje changes, delete lines, add lines, etc
 create a branch - like a tree ( to put the changes their)
+creat pull request and merge the changes to MASTER branch
