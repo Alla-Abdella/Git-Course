@@ -1,10 +1,33 @@
-create repo
-repo : container of a project. 
-create new file 
-add files, images, vedios, anything related to the project.
-commit --- like same
-maje changes, delete lines, add lines, etc
-create a branch - like a tree ( to put the changes their)
-creat pull request and merge the changes to MASTER branch
-creat another branch , pull request and merge it to master 
-Network, go to insight tap and then chooce network to see how branches are merged. 
+1-create repo
+2-repo : container of a project. 
+3-create new file 
+4-add files, images, vedios, anything related to the project.
+5-commit --- like same
+6-maje changes, delete lines, add lines, etc
+7-create a branch - like a tree ( to put the changes their)
+8-creat pull request and merge the changes to MASTER branch
+9-creat another branch , pull request and merge it to master 
+10-Network, go to insight tap and then chooce network to see how branches are merged. 
+-------------------------------
+1- git init 
+2- git status 
+3- git add . 
+4- git add readme.txt
+5- git commit -a -m ' new changes'
+6- git status 
+7- git log 
+8- git shortlog -s -n -e -all
+9- tocuh file1.py
+10- touch fil2.csv 
+11- git branch MyFeatureBranch
+12- git checkout MyFeatureBranch
+13- git check out master
+14- git merge MyFeatureBranch
+15- git remote
+16- git clone https://github.com/alla15747/Git-Course.git
+17- git remote -v 
+18- git fetch origin 
+19 - git fetch origin 
+20 - git pull origin 
+21- git commit -a -m 'add new changes to complete the course'
+22 - git push origin master 
