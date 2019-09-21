@@ -6,3 +6,5 @@ commit --- like same
 maje changes, delete lines, add lines, etc
 create a branch - like a tree ( to put the changes their)
 creat pull request and merge the changes to MASTER branch
+creat another branch , pull request and merge it to master 
+Network, go to insight tap and then chooce network to see how branches are merged. 
