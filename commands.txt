@@ -1,3 +1,7 @@
 create repo
+repo : container of a project. 
 create new file 
+add files, images, vedios, anything related to the project.
 commit --- like same
+maje changes, delete lines, add lines, etc
+create a branch - like a tree ( to put the changes their)
