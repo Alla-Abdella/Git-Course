@@ -1,4 +1,4 @@
-My name is Alla. 
+My name is Alla from US. 
 This is my first course that includes all the most useful information about Git commands. 
 Let's all learn Git!!!
 1-create repo
