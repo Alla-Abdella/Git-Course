@@ -1,10 +1,6 @@
 My name is Alla. 
 This is my first course that includes all the most useful information about Git commands. 
 Let's all learn Git!!!
-This is my first course 
-I hope you will like it.
-This is Alla
-hi all
 1-create repo
 2-repo : container of a project. 
 3-create new file 
