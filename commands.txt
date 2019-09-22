@@ -1,4 +1,5 @@
-This is my first course
+This is my first course 
+I hope you will like it.
 1-create repo
 2-repo : container of a project. 
 3-create new file 
