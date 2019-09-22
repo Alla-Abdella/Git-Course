@@ -31,3 +31,16 @@
 20 - git pull origin 
 21- git commit -a -m 'add new changes to complete the course'
 22 - git push origin master 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+dir 
+ls 
+touch file.py
+help
+clear
+ls 
+cd ..
+pwd 
+shift+ : + q 
+git add .
+git rm --cached file
+git remote add origin https://github.com/alla15747/Git-Course.git
