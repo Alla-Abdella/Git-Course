@@ -1,5 +1,5 @@
-My name is Alla.
-This is my first course 
+My name is Alla. 
+This is my first course that includes all the most useful information about Git commands. 
 Let's all learn Git!!!
 1-create repo
 2-repo : container of a project. 
