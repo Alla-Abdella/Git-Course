@@ -40,6 +40,11 @@ clear
 ls 
 cd ..
 pwd 
+mkdir test : create a new folder
+rmdir test 
+rm -r test : if test folder has multiple files
+cp test newtest : copy test file and rename it into newtest
+
 shift+ : + q 
 git add .
 git rm --cached file
